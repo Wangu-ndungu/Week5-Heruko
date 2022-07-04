@@ -5,3 +5,4 @@ pandas==1.4.2
 scikit_learn==1.1.1
 seaborn==0.11.2
 Jinja2==2.11.3
+markupsafe==2.0.1
